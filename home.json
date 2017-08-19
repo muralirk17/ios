@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Almonds",
+    "type": "Dry Fruits",
+    "quantity": "1 Pound",
+    "price": 12.00
+    "pic": {
+      "name": "almonds",
+      "image": "https://github.com/muralirk17/ios/raw/master/Almonds-300x200.png"
+    }
+  },
+  {
+    "name": "Saffron",
+    "type": "Spices",
+    "quantity": "1 Pound",
+    "price": 80.00
+    "pic": {
+      "name": "saffron",
+      "image": "https://github.com/muralirk17/ios/raw/master/saffron.png"
+    }
+  },
+  {
+    "name": "Laxmi Canola Oil",
+    "type": "Oils",
+    "quantity": "16 Oz",
+    "price": 20.00
+    "pic": {
+      "name": "laxmi_canola_oil",
+      "image": "https://s3-us-west-2.amazonaws.com/youtubeassets/taylor_fan_forever_profile.jpg"
+    }
+  },
+  {
+    "name": "Maggi Masala Noodles",
+    "type": "Snacks",
+    "quantity": "24 Pack",
+    "price": 15.00
+    "pic": {
+      "name": "maggi_masala_noodles",
+      "image": "https://github.com/muralirk17/ios/raw/master/maggi.jpg"
+    }
+  },
+  {
+    "name": "Frooti",
+    "type": "Drinks",
+    "quantity": "1 Litre",
+    "price": 4.00
+    "pic": {
+      "name": "frooti",
+      "image": "https://github.com/muralirk17/ios/raw/master/frooti.png"
+    }
+  },
+  {
+    "name": "Corn Oil",
+    "type": "Oils",
+    "quantity": "1 Gallon",
+    "price": 24.00
+    "pic": {
+      "name": "corn_oil",
+      "image": "https://github.com/muralirk17/ios/raw/master/corn-oil.jpg"
+    }
+  }
+]
