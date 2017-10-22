@@ -1,0 +1,836 @@
+{
+    
+"categories": [
+  {
+    "name": "Beans & Dal",
+    "products": [
+      {
+
+        "size": "1 Pound",
+        "name": "Chana Dal",
+        "price": 4.99,
+        "image_name": "chana_dal"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Football Masoor",
+        "price": 2.99,
+        "image_name": "football_masoor"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Kabuli Chana",
+        "price": 3.99,
+        "image_name": "kabuli_chana"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Kala Chana",
+        "price": 3,
+        "image_name": "kala_chana"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Masoor Dal",
+        "price": 5.99,
+        "image_name": "masoor_dal"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Moong Dal Split",
+        "price": 4.99,
+        "image_name": "moong_dal_split"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Toor Dal",
+        "price": 2.99,
+        "image_name": "toor_dal"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Urad Dal",
+        "price": 3.99,
+        "image_name": "urad_dal"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Whole Moong",
+        "price": 3,
+        "image_name": "whole_moong"
+      },
+      {
+        "category": "Beans & Dal",
+        "size": "1 Pound",
+        "name": "Whole Urad Gota",
+        "price": 5.99,
+        "image_name": "whole_urad_gota"
+      }
+    ],
+    "type": 10
+  },
+  {
+    "name": "Beverages",
+    "products": [
+      {
+        "category": "Beverages",
+        "size": "1 Pound",
+        "name": "Bournvita",
+        "price": 4.99,
+        "image_name": "bournvita"
+      },
+      {
+        "category": "Beverages",
+        "size": "1 Pound",
+        "name": "Frooti",
+        "price": 2.99,
+        "image_name": "frooti"
+      },
+      {
+        "category": "Beverages",
+        "size": "1 Pound",
+        "name": "Kesar Mango Pulp",
+        "price": 3.99,
+        "image_name": "kesar_mango_pulp"
+      }
+    ],
+    "type": ""
+  },
+  {
+    "name": "Flour",
+    "products": [
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "All Purpose Flour",
+        "price": 3,
+        "image_name": "all_purpose_flour"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Chappati Flour Multigrain",
+        "price": 5.99,
+        "image_name": "chappati_flour_multigrain"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Chappati Flour Multigrain Sharbati",
+        "price": 4.99,
+        "image_name": "chappati_flour_multigrain_sharbati"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Chappati Flour Sharbati",
+        "price": 2.99,
+        "image_name": "chappati_flour_sharbati"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Corn Flour",
+        "price": 3.99,
+        "image_name": "corn_flour"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Gram Flour",
+        "price": 3,
+        "image_name": "gram_flour"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Idly Rava",
+        "price": 5.99,
+        "image_name": "idly_rava"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Ladoo Besan",
+        "price": 4.99,
+        "image_name": "ladoo_besan"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Moong Flour",
+        "price": 2.99,
+        "image_name": "moong_flour"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Rice Flour",
+        "price": 3.99,
+        "image_name": "rice_flour"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Sooji",
+        "price": 3,
+        "image_name": "sooji"
+      },
+      {
+        "category": "Flour",
+        "size": "1 Pound",
+        "name": "Urad Flourpng",
+        "price": 5.99,
+        "image_name": "urad_flourpng"
+      }
+    ],
+    "type": ""
+  },
+  {
+    "name": "Nuts & Dry Fruits",
+    "products": [
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Almonds",
+        "price": 4.99,
+        "image_name": "almonds"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Almonds Slivered",
+        "price": 2.99,
+        "image_name": "almonds_slivered"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Apricot",
+        "price": 3.99,
+        "image_name": "apricot"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Cashew Pieces",
+        "price": 3,
+        "image_name": "cashew_pieces"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Cashews Whole",
+        "price": 5.99,
+        "image_name": "cashews_whole"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Char Magaz",
+        "price": 4.99,
+        "image_name": "char_magaz"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Charoli",
+        "price": 2.99,
+        "image_name": "charoli"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Coconut Powder",
+        "price": 3.99,
+        "image_name": "coconut_powder"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Dry Dates Black",
+        "price": 3,
+        "image_name": "dry_dates_black"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Golden Raisins",
+        "price": 5.99,
+        "image_name": "golden_raisins"
+      },
+      {
+        "category": "Nuts & Dry Fruits",
+        "size": "1 Pound",
+        "name": "Pistachios",
+        "price": 4.99,
+        "image_name": "pistachios"
+      }
+    ],
+    "type": ""
+  },
+  {
+    "name": "Pastes & Chutneys",
+    "products": [
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Almond Oil",
+        "price": 2.99,
+        "image_name": "almond_oil"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Biryani ",
+        "price": 3.99,
+        "image_name": "biryani_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Castor Oil",
+        "price": 3,
+        "image_name": "castor_oil"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Chicken Butter Curry Paste ",
+        "price": 5.99,
+        "image_name": "chicken_butter_curry_paste_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Coconut Oil",
+        "price": 4.99,
+        "image_name": "coconut_oil"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Garlic Paste",
+        "price": 2.99,
+        "image_name": "garlic_paste"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Ginger Garlic Paste",
+        "price": 3.99,
+        "image_name": "ginger_garlic_paste"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Ginger Paste",
+        "price": 3,
+        "image_name": "ginger_paste"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Hot Chutney ",
+        "price": 5.99,
+        "image_name": "hot_chutney_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Hot Curry Paste ",
+        "price": 4.99,
+        "image_name": "hot_curry_paste_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Hot Mango Chutney ",
+        "price": 2.99,
+        "image_name": "hot_mango_chutney_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Madras Curry Paste ",
+        "price": 3.99,
+        "image_name": "madras_curry_paste_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Major Grey ",
+        "price": 3,
+        "image_name": "major_grey_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Mild Curry Paste ",
+        "price": 5.99,
+        "image_name": "mild_curry_paste_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Mustard Oil",
+        "price": 4.99,
+        "image_name": "mustard_oil"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Pure Cow Ghee",
+        "price": 2.99,
+        "image_name": "pure_cow_ghee"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Rogan Josh ",
+        "price": 3.99,
+        "image_name": "rogan_josh_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Sesame Oil",
+        "price": 3,
+        "image_name": "sesame_oil"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Sweet Mango Chutney ",
+        "price": 5.99,
+        "image_name": "sweet_mango_chutney_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Tandoori",
+        "price": 4.99,
+        "image_name": "tandoori-pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Tikka Masala ",
+        "price": 2.99,
+        "image_name": "tikka_masala_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Tikka ",
+        "price": 3.99,
+        "image_name": "tikka_pataks"
+      },
+      {
+        "category": "Pastes & Chutneys",
+        "size": "1 Pound",
+        "name": "Vindaloo ",
+        "price": 3,
+        "image_name": "vindaloo_pataks"
+      }
+    ],
+    "type": ""
+  },
+  {
+    "name": "Rice & Grains",
+    "products": [
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Basmati Kurmura",
+        "price": 5.99,
+        "image_name": "basmati_kurmura"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Basmati Rice",
+        "price": 4.99,
+        "image_name": "basmati_rice"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Bhadang Kurmura",
+        "price": 2.99,
+        "image_name": "bhadang_kurmura"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Cream Of Rice",
+        "price": 3.99,
+        "image_name": "cream_of_rice"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Dehradun Basmati Rice",
+        "price": 3,
+        "image_name": "dehradun_basmati_rice"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Extra Long Grain Brown Basmati Rice",
+        "price": 5.99,
+        "image_name": "extra_long_grain_brown_basmati_rice"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Idly Rice",
+        "price": 4.99,
+        "image_name": "idly_rice"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Ponni Raw Rice",
+        "price": 2.99,
+        "image_name": "ponni_raw_rice"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Quinoa",
+        "price": 3.99,
+        "image_name": "quinoa"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Sona Masoori Rice",
+        "price": 3,
+        "image_name": "sona_masoori_rice"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Thick Poha",
+        "price": 5.99,
+        "image_name": "thick_poha"
+      },
+      {
+        "category": "Rice & Grains",
+        "size": "1 Pound",
+        "name": "Thin Poha",
+        "price": 4.99,
+        "image_name": "thin_poha"
+      }
+    ],
+    "type": ""
+  },
+  {
+    "name": "Snacks",
+    "products": [
+      {
+        "category": "Snacks",
+        "size": "1 Pound",
+        "name": "Almonds",
+        "price": 2.99,
+        "image_name": "almonds"
+      },
+      {
+        "category": "Snacks",
+        "size": "1 Pound",
+        "name": "Garvi Gujarat",
+        "price": 3.99,
+        "image_name": "garvi_gujarat"
+      },
+      {
+        "category": "Snacks",
+        "size": "1 Pound",
+        "name": "Maggi Noodles",
+        "price": 3,
+        "image_name": "maggi_noodles"
+      },
+      {
+        "category": "Snacks",
+        "size": "1 Pound",
+        "name": "Masala Spicy Maggi Noodles",
+        "price": 5.99,
+        "image_name": "masala_spicy_maggi_noodles"
+      },
+      {
+        "category": "Snacks",
+        "size": "1 Pound",
+        "name": "Meri Masala Maggi Noodles",
+        "price": 4.99,
+        "image_name": "meri_masala_maggi_noodles"
+      }
+    ],
+    "type": ""
+  },
+  {
+    "name": "Spices",
+    "products": [
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Chana Dal",
+        "price": 2.99,
+        "image_name": "chana_dal"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Chilli Powser Resham Patti",
+        "price": 3.99,
+        "image_name": "chilli_powser_resham_patti"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Coriander Powder",
+        "price": 3,
+        "image_name": "coriander_powder"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Coriander Seeds",
+        "price": 5.99,
+        "image_name": "coriander_seeds"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Cumin Powder",
+        "price": 4.99,
+        "image_name": "cumin_powder"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Cumin Seeds",
+        "price": 2.99,
+        "image_name": "cumin_seeds"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Curry Powder",
+        "price": 3.99,
+        "image_name": "curry_powder"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Curry Powder Extra Hot",
+        "price": 3,
+        "image_name": "curry_powder_extra_hot"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Five-Pack-Spices",
+        "price": 5.99,
+        "image_name": "five-pack-Spices"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Garam Masala",
+        "price": 4.99,
+        "image_name": "garam_masala"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Natural Tamarind Concentrate",
+        "price": 2.99,
+        "image_name": "natural_tamarind_concentrate"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Red Chilli Powder",
+        "price": 3.99,
+        "image_name": "red_chilli_powder"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Saffron",
+        "price": 3,
+        "image_name": "saffron"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Tea Masala",
+        "price": 5.99,
+        "image_name": "tea_masala"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Toor Dal",
+        "price": 4.99,
+        "image_name": "toor_dal"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Whole Moong",
+        "price": 2.99,
+        "image_name": "whole_moong"
+      },
+      {
+        "category": "Spices",
+        "size": "1 Pound",
+        "name": "Whole Urad Gota",
+        "price": 3.99,
+        "image_name": "whole_urad_gota"
+      }
+    ],
+    "type": ""
+  },
+  {
+    "name": "Masala Spices",
+    "products": [
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Bombay Bhaji Pav Masala ",
+        "price": 3,
+        "image_name": "bombay_bhaji_pav_masala_badshah"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Chaat Masala ",
+        "price": 5.99,
+        "image_name": "chaat_masala_everest"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Chana Masala ",
+        "price": 4.99,
+        "image_name": "chana_masala_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Chat Masala ",
+        "price": 2.99,
+        "image_name": "chat_masala_badshah"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Chicken Curry Masala ",
+        "price": 3.99,
+        "image_name": "chicken_curry_masala_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Chunky Chat Masala ",
+        "price": 3,
+        "image_name": "chunky_chat_masala_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Deggi Mich ",
+        "price": 5.99,
+        "image_name": "deggi_mich_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Garam Masala ",
+        "price": 4.99,
+        "image_name": "garam_masala_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Kasoori Methi ",
+        "price": 2.99,
+        "image_name": "kasoori_methi_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Kitchen King ",
+        "price": 3.99,
+        "image_name": "kitchen_king_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Meat Curry Masala ",
+        "price": 3,
+        "image_name": "meat_curry_masala_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Pani Puri Masala ",
+        "price": 5.99,
+        "image_name": "pani_puri_masala_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Pav Bhaji Masala ",
+        "price": 4.99,
+        "image_name": "pav_bhaji_masala_everest"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Pav Bhaji Masala ",
+        "price": 2.99,
+        "image_name": "pav_bhaji_masala_mdh"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Punjabi Chhole Masala ",
+        "price": 3.99,
+        "image_name": "punjabi_chhole_masala_badshah"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Rasam Masala ",
+        "price": 3,
+        "image_name": "rasam_masala_everest"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Sambhar Masala ",
+        "price": 5.99,
+        "image_name": "sambhar_masala_everest"
+      },
+      {
+        "category": "Masala Spices",
+        "size": "1 Pound",
+        "name": "Tea Masala ",
+        "price": 4.99,
+        "image_name": "tea_masala_everest"
+      }
+    ],
+    "type": ""
+  }
+]
+}
